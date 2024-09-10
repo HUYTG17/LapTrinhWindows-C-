@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe.config
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.pdb
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.exe
+H:\LapTrinhWin\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.pdb

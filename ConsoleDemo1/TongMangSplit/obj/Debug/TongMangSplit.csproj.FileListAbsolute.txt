@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\bin\Debug\TongMangSplit.exe.config
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\bin\Debug\TongMangSplit.exe
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\bin\Debug\TongMangSplit.pdb
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\obj\Debug\TongMangSplit.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\obj\Debug\TongMangSplit.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\obj\Debug\TongMangSplit.exe
+H:\LapTrinhWin\ConsoleDemo1\TongMangSplit\obj\Debug\TongMangSplit.pdb

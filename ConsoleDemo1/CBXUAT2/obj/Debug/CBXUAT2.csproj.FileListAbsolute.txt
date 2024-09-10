@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\bin\Debug\CBXUAT2.exe.config
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\bin\Debug\CBXUAT2.exe
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\bin\Debug\CBXUAT2.pdb
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\obj\Debug\CBXUAT2.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\obj\Debug\CBXUAT2.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\obj\Debug\CBXUAT2.exe
+H:\LapTrinhWin\ConsoleDemo1\CBXUAT2\obj\Debug\CBXUAT2.pdb

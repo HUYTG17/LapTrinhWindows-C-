@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\TimMax\bin\Debug\TimMax.exe.config
+H:\LapTrinhWin\ConsoleDemo1\TimMax\bin\Debug\TimMax.exe
+H:\LapTrinhWin\ConsoleDemo1\TimMax\bin\Debug\TimMax.pdb
+H:\LapTrinhWin\ConsoleDemo1\TimMax\obj\Debug\TimMax.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\TimMax\obj\Debug\TimMax.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\TimMax\obj\Debug\TimMax.exe
+H:\LapTrinhWin\ConsoleDemo1\TimMax\obj\Debug\TimMax.pdb

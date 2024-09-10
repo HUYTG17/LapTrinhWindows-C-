@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\Sum\bin\Debug\Sum.exe.config
+H:\LapTrinhWin\ConsoleDemo1\Sum\bin\Debug\Sum.exe
+H:\LapTrinhWin\ConsoleDemo1\Sum\bin\Debug\Sum.pdb
+H:\LapTrinhWin\ConsoleDemo1\Sum\obj\Debug\Sum.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\Sum\obj\Debug\Sum.exe
+H:\LapTrinhWin\ConsoleDemo1\Sum\obj\Debug\Sum.pdb

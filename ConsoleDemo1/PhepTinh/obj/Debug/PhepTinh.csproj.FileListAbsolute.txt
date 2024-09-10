@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\bin\Debug\PhepTinh.exe.config
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\bin\Debug\PhepTinh.exe
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\bin\Debug\PhepTinh.pdb
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\obj\Debug\PhepTinh.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\obj\Debug\PhepTinh.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\obj\Debug\PhepTinh.exe
+H:\LapTrinhWin\ConsoleDemo1\PhepTinh\obj\Debug\PhepTinh.pdb

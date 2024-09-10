@@ -1,0 +1,7 @@
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\bin\Debug\NHAPXUAT.exe.config
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\bin\Debug\NHAPXUAT.exe
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\bin\Debug\NHAPXUAT.pdb
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\obj\Debug\NHAPXUAT.csproj.AssemblyReference.cache
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\obj\Debug\NHAPXUAT.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\obj\Debug\NHAPXUAT.exe
+H:\LapTrinhWin\UpcoderC1LTCB\NHAPXUAT\NHAPXUAT\obj\Debug\NHAPXUAT.pdb

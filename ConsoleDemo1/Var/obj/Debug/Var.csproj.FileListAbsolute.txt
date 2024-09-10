@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\Var\bin\Debug\Var.exe.config
+H:\LapTrinhWin\ConsoleDemo1\Var\bin\Debug\Var.exe
+H:\LapTrinhWin\ConsoleDemo1\Var\bin\Debug\Var.pdb
+H:\LapTrinhWin\ConsoleDemo1\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\Var\obj\Debug\Var.exe
+H:\LapTrinhWin\ConsoleDemo1\Var\obj\Debug\Var.pdb

@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\bin\Debug\LTCB-132.exe.config
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\bin\Debug\LTCB-132.exe
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\bin\Debug\LTCB-132.pdb
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\obj\Debug\LTCB-132.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\obj\Debug\LTCB-132.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\obj\Debug\LTCB-132.exe
+H:\LapTrinhWin\ConsoleDemo1\LTCB-132\obj\Debug\LTCB-132.pdb
