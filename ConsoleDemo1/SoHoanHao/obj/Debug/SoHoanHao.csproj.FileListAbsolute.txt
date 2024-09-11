@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\bin\Debug\SoHoanHao.exe.config
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\bin\Debug\SoHoanHao.exe
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\bin\Debug\SoHoanHao.pdb
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\obj\Debug\SoHoanHao.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\obj\Debug\SoHoanHao.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\obj\Debug\SoHoanHao.exe
+H:\LapTrinhWin\ConsoleDemo1\SoHoanHao\obj\Debug\SoHoanHao.pdb

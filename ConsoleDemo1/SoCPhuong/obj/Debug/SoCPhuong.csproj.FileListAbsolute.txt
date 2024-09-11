@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\obj\Debug\SoCPhuong.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\obj\Debug\SoCPhuong.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\bin\Debug\SoCPhuong.exe.config
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\bin\Debug\SoCPhuong.exe
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\bin\Debug\SoCPhuong.pdb
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\obj\Debug\SoCPhuong.exe
+H:\LapTrinhWin\ConsoleDemo1\SoCPhuong\obj\Debug\SoCPhuong.pdb

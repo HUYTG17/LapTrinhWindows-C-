@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\bin\Debug\MISS_NUM.exe.config
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\bin\Debug\MISS_NUM.exe
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\bin\Debug\MISS_NUM.pdb
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\obj\Debug\MISS_NUM.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\obj\Debug\MISS_NUM.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\obj\Debug\MISS_NUM.exe
+H:\LapTrinhWin\ConsoleDemo1\MISS_NUM\obj\Debug\MISS_NUM.pdb

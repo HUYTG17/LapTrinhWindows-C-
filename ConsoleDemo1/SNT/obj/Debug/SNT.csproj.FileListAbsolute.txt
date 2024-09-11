@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\SNT\bin\Debug\SNT.exe.config
+H:\LapTrinhWin\ConsoleDemo1\SNT\bin\Debug\SNT.exe
+H:\LapTrinhWin\ConsoleDemo1\SNT\bin\Debug\SNT.pdb
+H:\LapTrinhWin\ConsoleDemo1\SNT\obj\Debug\SNT.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\SNT\obj\Debug\SNT.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\SNT\obj\Debug\SNT.exe
+H:\LapTrinhWin\ConsoleDemo1\SNT\obj\Debug\SNT.pdb
