@@ -1,0 +1,7 @@
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\bin\Debug\Tongmang.exe.config
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\bin\Debug\Tongmang.exe
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\bin\Debug\Tongmang.pdb
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\obj\Debug\Tongmang.csproj.AssemblyReference.cache
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\obj\Debug\Tongmang.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\obj\Debug\Tongmang.exe
+H:\LapTrinhWin\ConsoleDemo1\Tongmang\obj\Debug\Tongmang.pdb

@@ -1,0 +1,7 @@
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\bin\Debug\LopPhanSo1.exe.config
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\bin\Debug\LopPhanSo1.exe
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\bin\Debug\LopPhanSo1.pdb
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\obj\Debug\LopPhanSo1.csproj.AssemblyReference.cache
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\obj\Debug\LopPhanSo1.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\obj\Debug\LopPhanSo1.exe
+H:\LapTrinhWin\Upcoder\LopPhanSo1\LopPhanSo1\obj\Debug\LopPhanSo1.pdb

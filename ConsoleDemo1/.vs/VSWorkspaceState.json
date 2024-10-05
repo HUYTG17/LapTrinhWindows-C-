@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LTCB-123",
-    "\\PhepTinh2",
+    "\\LTCB-143",
+    "\\SNT",
+    "\\SoCPhuong",
+    "\\SoHoanHao",
     "\\Sum",
     "\\TimMax",
     "\\Tongmang",
     "\\TongMangSplit",
     "\\Var"
   ],
-  "SelectedNode": "\\LTCB-143",
+  "SelectedNode": "\\Tongmang\\Tongmang.csproj",
   "PreviewInSolutionExplorer": false
 }

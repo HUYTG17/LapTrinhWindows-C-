@@ -1,0 +1,7 @@
+H:\LapTrinhWin\Upcoder\Lab\Labtest\bin\Debug\Labtest.exe.config
+H:\LapTrinhWin\Upcoder\Lab\Labtest\bin\Debug\Labtest.exe
+H:\LapTrinhWin\Upcoder\Lab\Labtest\bin\Debug\Labtest.pdb
+H:\LapTrinhWin\Upcoder\Lab\Labtest\obj\Debug\Labtest.csproj.AssemblyReference.cache
+H:\LapTrinhWin\Upcoder\Lab\Labtest\obj\Debug\Labtest.csproj.CoreCompileInputs.cache
+H:\LapTrinhWin\Upcoder\Lab\Labtest\obj\Debug\Labtest.exe
+H:\LapTrinhWin\Upcoder\Lab\Labtest\obj\Debug\Labtest.pdb
